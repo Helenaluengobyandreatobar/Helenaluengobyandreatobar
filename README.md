@@ -4,7 +4,91 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+<!--
+PROYECTO VENUS
+puntos clave que puedes
+incluir en tu proyecto:
+a. Introducción:
+el propósito del proyecto, es
+establecer una plataforma de
+intercambio de dominios web y
+subasta.
+Destacar los beneficios y
+oportunidades que ofrece esta
+plataforma.
+Objetivos:
+facilitar la compra y venta 
+dominios web, promover la
+
+transparencia en las
+
+transacciones y brindar una
+
+experiencia segura para los
+
+usuarios.
+
+Funcionalidades y
+
+características:
+
+funcionalidades principales de la
+
+plataforma, la posibilidad de
+
+buscar y filtrar dominios, listar
+
+dominios para su venta, ofrecer
+
+subastas en tiempo real,
+
+proporcionar información
+
+detallada sobre los dominios,
+
+permitir la comunicación entre
+
+compradores y vendedores, etc.
+
+características de seguridad
+
+implementadas, como la
+
+verificación de identidad de los
+usuarios, sistemas de pago
+seguros y protección contra
+fraudes.
+Proceso de intercambio de
+dominios:
+cómo funciona el proceso de
+intercambio de dominios en la
+plataforma, desde la publicación
+de un dominio para la venta hasta
+la finalización de la transacción.
+los pasos involucrados, como la
+presentación de ofertas, la
+negociación, la aceptación de
+una oferta y el proceso de
+transferencia del dominio.
+Subastas:
+cómo se llevarán a cabo las
+subastas de dominios en la
+plataforma.
+las reglas y condiciones de las
+subastas, como el tiempo de
+duración, la opción de pujas
+automáticas, la posibilidad de
+establecer un precio mínimo, etc.
+Políticas y términos de uso:
+las políticas y términos de uso de
+la plataforma, incluyendo
+aspectos como las tarifas por
+utilizar el servicio, las
+responsabilidades de los
+usuarios, la resolución de
+disputas y cualquier otra
+información relevante.
+Marketing y promoción:
 Helenaluengobyandreatobar/Helenaluengobyandreatobar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
